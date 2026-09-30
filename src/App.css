@@ -349,7 +349,7 @@ section {
 
 
 .hero-content h1 {
-  font-size: clamp(60px, 8vw, 105px);
+  font-size: clamp(70px, 5vw, 105px);
 
   line-height: 0.9;
 
